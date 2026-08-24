@@ -10,7 +10,7 @@ This is a Python automation tool to sort raw notes and generate categorized agen
 1. Write down tasks and notes in raw_tasks.txt
 2. Run the script
    agenda_builder.py
-4. Open new_agenda.md in a text editor.
+3. Open new_agenda.md in a text editor.
 
 ### Input formatting rules
 To ensure the script categorizes each item properly,
