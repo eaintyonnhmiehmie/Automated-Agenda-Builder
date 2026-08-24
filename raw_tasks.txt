@@ -1,0 +1,13 @@
+URGENT: Follow-up with the mentee 
+GENERAL TASK: Print sign-in sheets (Assigned: Jane)
+GENERAL TASK: Draft an email to the supplier
+NOTE: Holiday from August 20 to August 27.
+URGENT: Renew the community center contract
+URRRGENT: Send meeting list.
+GENERAL TASK: Visualize June's profit data
+NOTE: Server maintenance scheduled for this weekend.
+URGENT: Fix broken login link on the website
+NOTE: Office closed on August 29.
+GENERAL TASK: Update inventory spreadsheet
+URGENT: Sign and return the equipment lease
+GENERAL TASK: Format new employee onboarding checklist
